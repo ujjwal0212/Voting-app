@@ -1,0 +1,14 @@
+voting application
+A functionality whre user can give vote to given set of candidate
+1.user signin/signup
+2.see the list of candidates
+3. vote one of the candidate
+4. there is a route show the list of candidate and their vote ciunt sorted by their vote count
+
+
+
+
+
+
+
+routes:
